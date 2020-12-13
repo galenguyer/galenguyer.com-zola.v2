@@ -180,7 +180,7 @@ title = "BPD"
     qualify as a mental disorder.</p>
 
 <br>
-<h2><a href="https://twitter.com/YUUlCHlRO/status/1310638706253062145">@YUUlCHlRO's Twitter thread</a></h2>
+<h2><a href="https://twitter.com/edgyidols/status/1310638706253062145">@edgyidols's Twitter thread</a></h2>
 <hr>
 <h3>WHAT IS BORDERLINE PERSONALITY DISORDER (BPD)?</h3>
 <p>it is a mental illness where a person’s relationships with people, emotions, self-image, and emotions are
