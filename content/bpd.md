@@ -1,5 +1,5 @@
 +++
-title = "BPD"
+title = "Borderline Personality Disorder"
 +++
 
 <h1>Borderline Personality Disorder</h1>
