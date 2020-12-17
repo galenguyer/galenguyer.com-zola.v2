@@ -1,0 +1,87 @@
+==================================================================
+https://keybase.io/galenguyer
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://galenguyer.com
+  * I am galenguyer (https://keybase.io/galenguyer) on keybase.
+  * I have a public key with fingerprint 038C CBF3 DAD6 946A F5EC  C4F9 B00B 5AAA 0E09 6100
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101340ab68e6db7b0cb3b4fa5f2bfd9186c11900b3f416578201ae869df292875050a",
+      "fingerprint": "038ccbf3dad6946af5ecc4f9b00b5aaa0e096100",
+      "host": "keybase.io",
+      "key_id": "b00b5aaa0e096100",
+      "kid": "0101340ab68e6db7b0cb3b4fa5f2bfd9186c11900b3f416578201ae869df292875050a",
+      "uid": "9c5eb8634cc7288ef80f69893db46c19",
+      "username": "galenguyer"
+    },
+    "merkle_root": {
+      "ctime": 1608237443,
+      "hash_meta": "313a09f2ac4e2a045a10263c173f77c41d0ad33b30bf4b37c2b80b9d68f7faf6",
+      "seqno": 18432599
+    },
+    "revoke": {
+      "sig_ids": [
+        "c83605a4b2b8d3d6b6e6d3a144e77b4b051eb52764277ce4ffb9377e0dce06d40f"
+      ]
+    },
+    "service": {
+      "hostname": "galenguyer.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1608237451,
+  "expire_in": 157680000,
+  "prev": "d15a268c23a5abe4cfd31f21bfc71473b11db41801006fcfb1acaf6b77232ff4",
+  "seqno": 14,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMPXAnicrVN7UFVFHAbzBYZgU5P57jTOkDK45+yeF2qYWVExjBqIoHnc3bN7vVzu
+vXjvBUTAZyamETbiWL5iNEcwR80b1iSaqDMZoo4jPRQjDXLGB4YPNF+0h6mZpvqz
+/Wdnd7/f932/b3ePxDwWER25u192Tf8oHBHZUF+cH2GdO7SyWCJ+u0hKKpY8rHti
+uTYLhiyP25aSJCADGSKAiWYwzSY6AZRAgjhWuUK4bcqGRmXZBIBAjmRN1Q0FyJgZ
+mmlzxVQMXQUqwFKCxN0+FwvkBdy+kEMLDUoJhza2NRNpmKuMUsRNIohUjDFgwNRk
+AEThHH/QqRDmCA6yRLdf7ImF1W3vP/D/s+/8bjqTqowYGkSU6ophMG4ArpmGCW2C
+BJHpAIMs4MNeJtAunMt8rvwiFpBKEyQvC3hymRXw+0NOvDTkdkCyBgwF6ghB0SIO
+zrG8LIRFLZQhBiZXMEVMwQCpWAaKBqmsQ67rFMk2wDaEBALCEYE6VYgBiGlrBtc5
+5ppwEmRzfX6hYCCoqKYpLARYgd/DHPWg2yWSC0pJMyRqQA2oGBHBYENbI5pICmIZ
+IabrBBGgyoyoiq4hRQgzxDkxoa4zYFMGNBsBLr1V6qgFCty0m9y5qn9FkEj9XmEq
+L+AP+ak/V5zNCYXygklONKGiPAdcyIj1J41F3D5bPBVRUcACQbffJxoRyH+kpsoJ
+EpuX5w4wy+0gVF0zgBiODisQlLasYkUzqAKxiglDlNtQ5opMONVlpEMiy+LqZEO8
+E6BxyomMqUiP6LoCFc7R32JEwid2CU6RnQ+H8gNMKq0/NLNnRGR0RO9ePZw/FBEd
+FffXz3r0bmxX+rgdGet2j7k2/XrU5znxl4suj0qzTuasqwvfcrVXrdr4kVZ9duvx
+U+F7C04ePdnUnhV3u1rP2B67/FK28n5DSh/vwKzpg68+ZzVXVI3tPH0nOa2mdfRX
+Umlsvw8mrFq68o1ms298w+LdmS3pJ8KTFtUu81Sdnj+usO/49YVr7+Nd/TtenTHl
+l46MrDFPn8GRJRO3zdy4f+1wr5F6sXDTsCuub8fX/rTxxqXKO3Z5xdnt2R0Ztw4c
+uzlzljEq+tj3e5tnfbdw4q7BsxduzzyxaU9h+Yop4cx149v3Vf7++sjUurjIgy/c
+zBiV+d7A4xVW3W9Do+TKksc/iX7plC/mxvknpk7jJfNWp285k97LBZsH7FiQOrg2
+8X5yFopP+XT90Yaszj1p4dfW9Hhn/8OfkxsrV5e1drFbP5R/sX9XddfS2S3yyzNa
+z0+tbUVN50fkLC6bdjG7ES5qGlmzty27/MPG012NrjizfsSwlKKhb6ZPit1yrOFc
+fdDeF5ZiDsTRgguFMVGrU0v6jFS/DMbML1vRtNl+1PKUJ4Herj0cda1t7I6WbZsf
+Dh9ydMOGnZVtP14ZbSVVfPzs81eb4StLlrX115IO9X27rO528ouJS876vDHFypCv
+n6w5Eh5xuf16v7ReDx7cnez55rM1d9X6+3MHzO9578KvLTs3dBZY8R3PTB57L6f5
+blVg65YJna6DJed6Vx8elHltojHoD9TMDZY=
+=b5+q
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/galenguyer
+
+==================================================================
