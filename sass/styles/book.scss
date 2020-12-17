@@ -1,47 +1,44 @@
-@import url('https://fonts.googleapis.com/css?family=Nunito+Sans&display=swap');
-
 body {
     background-color: #f4f2e8;
 }
-
 article {
     max-width: 720px;
-    font-family: 'Nunito Sans', Arial, Helvetica, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     padding: 1rem 0.5rem 1rem 0.5rem;
-    margin: 2rem auto 2rem auto;
+    margin: 1rem auto 1rem auto;
     line-height: 1.8;
 }
-
-h1, h2, h3 {
+h1,h2,h3 {
     text-align: center;
     margin: 0;
+    font-weight: 200;
 }
 h1 {
     font-size: 2rem;
 }
+
 h2 {
     font-size: 1.2rem;
 }
-
 hr {
     margin: 0rem 2rem 2rem 2rem;
 }
-
-img {
-    max-height: 400px; 
-    max-width: 550px;
-    width: auto; 
-    display:block; 
-    margin:auto;
+ul {
+    line-height: 2.0;
 }
-
+img {
+    max-height: 400px;
+    max-width: 550px;
+    width: auto;
+    display: block;
+    margin: auto;
+}
 .source {
     padding-top: 2rem;
     text-align: center;
     color: #888888;
     text-decoration: none;
 }
-
 a {
     border-bottom: dotted 1px transparent;
     text-decoration: none;
@@ -52,5 +49,5 @@ a {
     transition: color 0.2s ease-in-out, border-bottom 0.2s ease-in-out;
 }
 a:hover {
-    border-bottom: dotted 1px rgba(128,128,128,1);
+    border-bottom: dotted 1px rgba(128, 128, 128, 1);
 }
